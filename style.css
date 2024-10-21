@@ -37,11 +37,15 @@ body {
 .answer--correct {
   background-color: limegreen;
   color: white;
+  padding: 0.5rem;
+  border-radius: 5px;
 }
 
 .answer--wrong {
   background-color: red;
   color: white;
+  padding: 0.5rem;
+  border-radius: 5px;
 }
 
 .answer__icon {
